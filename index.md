@@ -26,4 +26,5 @@ feature_row:
     excerpt: "TMultimaterial printing. "
 ---
 
+{% include feature_row %}
 
