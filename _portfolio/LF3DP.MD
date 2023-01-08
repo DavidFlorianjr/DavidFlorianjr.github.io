@@ -2,11 +2,10 @@
 title: "Cyber Scooter"
 excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/LF3DP-Banner-2
+  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
-  - url: /assets/img/Cyber-Scooter-1.jpg
-    image_path: assets/img/Cyber-Scooter-1.jpg
+  - image_path: /assets/img/Slide-3.png
     alt: "placeholder image 1"
   - url: /assets/img/Cyber-Scooter-2.jpg
     image_path: assets/img/Cyber-Scooter-2.jpg
