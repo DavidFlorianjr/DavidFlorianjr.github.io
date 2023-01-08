@@ -1,5 +1,5 @@
 ---
-title: "Home Page"
+title: "Example Web Page"
 layout: splash
 header:
   overlay_color: "#000"
