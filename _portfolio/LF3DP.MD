@@ -1,6 +1,6 @@
 ---
 title: "Large Format 3D Printer"
-excerpt: "A 1 kg/hr pellet extruder and 1 m~3 build envelope for printing furniture."
+excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
 header:
   image: /assets/img/LF3DP-Banner-2.jpg
   teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
