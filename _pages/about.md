@@ -16,7 +16,7 @@ David prides himself on his diverse skill set. His most prominent fields of expe
 
 ## Technical Skills
 
-David can operating a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 * Stereolithography (SLA)
