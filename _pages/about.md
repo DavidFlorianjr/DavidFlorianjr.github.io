@@ -1,5 +1,3 @@
-# About David Florian
-
 ## Education
 
 * University of Virginia
