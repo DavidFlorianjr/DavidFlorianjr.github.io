@@ -20,7 +20,7 @@ feature_row:
     excerpt: "Experience with manual milling, manual lathe, and CNC mill"
   - image_path: assets/img/index_3dprint.jpg
     title: "3D-Printing"
-    excerpt: "Experience with Ultimaker S3/5, Prusa mk3, Voron 2.4, Ender 3, Monoprice Mini Delta"
+    excerpt: "Experience with Ultimaker, BambuLab, Prusa, Ender, Voron 2.4, Monoprice Mini Delta"
 ---
 
 {% include feature_row %}
