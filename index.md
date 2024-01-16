@@ -10,17 +10,17 @@ header:
       url: "/portfolio/"
 excerpt: "Lorem Ipsum."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/index_powertools.jpg
+    alt: "Power Tools"
+    title: "Power Tools"
+    excerpt: "Experience with power tools, air tools, and hand tools"
+  - image_path: assets/img/index_mill.jpg
+    alt: "Mill"
+    title: "Manual Mill"
+    excerpt: "Experience with manual milling, manual lathe, and CNC mill"
+  - image_path: assets/img/index_3dprint.jpg
+    title: "3D-Printing"
+    excerpt: "Experience with Ultimaker S3/5, Prusa mk3, Voron 2.4, Ender 3, Monoprice Mini Delta"
 ---
 
 {% include feature_row %}
