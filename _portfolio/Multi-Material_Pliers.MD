@@ -1,7 +1,10 @@
 ---
 title: "Print-in-Place Multi-Material Pliers"
 excerpt: "A functional needle-nose plier design exploring the intersection of rigid structural components and flexible elastomeric springs."
-
+# header:
+#   image: 
+#   teaser: 
+---
 
 # Redefining Mechanical Prints
 **Print-in-place** parts are functional multi-component designs that require no post-printing assembly or manipulation to fulfill their requirements. By printing internal hinges or interlocking joints simultaneously, you can pull a fully moving machine straight off the build plate.
@@ -22,6 +25,7 @@ The secret to high-performance print-in-place design is **designing parts with a
 ---
 
 # Interactive CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281177c50024f1383c72?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
 
@@ -61,5 +65,12 @@ The final design moved to a **three-component assembly** to maximize print quali
 | **Supports** | None | None |
 | **Brim** | 8 Layers (0.5mm) | 8 Layers (0.7mm) |
 | **Infill Density** | 20% | 15% |
+
+---
+
+# Gallery & Operation
+*(Images and GIFs will be uploaded soon!)*
+
+> **Note:** Iteration photos and demonstration GIFs are currently being processed and will be added to this section shortly.
 
 ---
