@@ -2,8 +2,8 @@
 title: "Print-in-Place Multi-Material Pliers"
 excerpt: "A functional needle-nose plier design exploring the intersection of rigid structural components and flexible elastomeric springs."
 # header:
-#   image: assets/img/Pliers_Header.jpg
-#   teaser: assets/img/Pliers_Header.jpg
+#   image: assets/img/Pliers_Header.jpeg
+#   teaser: assets/img/Pliers_Header.jpeg
 # gallery:
 #   - image_path: assets/img/Pliers_Iteration_1.png
 #     excerpt: "Initial spline-based ergonomic concept."
