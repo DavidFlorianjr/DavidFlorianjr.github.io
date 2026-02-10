@@ -1,7 +1,7 @@
 ---
 title: "Print-in-Place Multi-Material Pliers"
 excerpt: "A functional needle-nose plier design exploring the intersection of rigid structural components and flexible elastomeric springs."
-header:
+
 
 # Redefining Mechanical Prints
 **Print-in-place** parts are functional multi-component designs that require no post-printing assembly or manipulation to fulfill their requirements. By printing internal hinges or interlocking joints simultaneously, you can pull a fully moving machine straight off the build plate.
