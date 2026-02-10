@@ -1,16 +1,16 @@
 ---
 title: "Print-in-Place Multi-Material Pliers"
 excerpt: "A functional needle-nose plier design exploring the intersection of rigid structural components and flexible elastomeric springs."
- header:
-   image: assets/img/Pliers_Header.jpeg
-   teaser: assets/img/Pliers_Header.jpeg
- gallery:
-   - image_path: assets/img/Pliers_Iteration_1.png
-     excerpt: "Initial spline-based ergonomic concept."
-   - image_path: assets/img/Pliers_Iteration_2.png
-     excerpt: "Second iteration focusing on dimensional accuracy."
-   - image_path: assets/img/Pliers_Iteration_Final.png
-     excerpt: "Final multi-material design with optimized TPU spring."
+header:
+  image: assets/img/Pliers_Header.jpeg
+  teaser: assets/img/Pliers_Header.jpeg
+gallery:
+  - image_path: assets/img/Pliers_Iteration_1.png
+    excerpt: "Initial spline-based ergonomic concept."
+  - image_path: assets/img/Pliers_Iteration_2.png
+    excerpt: "Second iteration focusing on dimensional accuracy."
+  - image_path: assets/img/Pliers_Iteration_Final.png
+    excerpt: "Final multi-material design with optimized TPU spring."
 ---
 
 # Redefining Mechanical Prints
@@ -32,7 +32,7 @@ The secret to high-performance print-in-place design is **designing parts with a
 ---
 
 # Interactive CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281150a9839c181a78af?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281150a9839c181a78af?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ---
 
@@ -76,5 +76,7 @@ The final design moved to a **three-component assembly** to maximize print quali
 ---
 
 # Gallery & Operation
+
+![Pliers Demo](assets/img/Pliers_Gif.gif)
 
 {% include gallery caption="Evolution of the Pliers: From Splines to Functional Tool" %}
