@@ -55,13 +55,13 @@ The goal was to create needle-nose pliers capable of picking up small through-ho
 # Gallery & Operation
 
 ### Iteration History
-![Iteration 1](/assets/img/Pliers_Iteration_1.png)  
+![Iteration 1](/assets/img/Plier_Iteration_1.png)  
 *Initial spline-based ergonomic concept.*
 
 ![Iteration 2](/assets/img/Pliers_Iteration_2.png)  
 *Second iteration focusing on dimensional accuracy.*
 
-![Final Iteration](/assets/img/Pliers_Iteration_Final.png)  
+![Final Iteration](/assets/img/Pliers_Iterations_Final.png)  
 *Final multi-material design with optimized TPU spring.*
 
 ### Functionality Demonstration
