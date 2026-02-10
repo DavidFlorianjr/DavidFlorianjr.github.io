@@ -45,10 +45,12 @@ The goal was to create needle-nose pliers capable of picking up small through-ho
 * **Spring Component:** TPU (95A Elastic)
 
 ### **Print Configuration**
-| Part | Nozzle | Infill | Supports |
-|:---|:---|:---|:---|
-| **Rigid PLA** | 0.4 mm | 20% | None |
-| **Elastic TPU** | 0.6 mm | 15% | None |
+| Setting | Rigid Components (PLA) | Elastic Spring (TPU) |
+|:--- |:--- |:--- |
+| **Printer / Nozzle** | Voron_300 / 0.4mm | Voron_300 / 0.6mm |
+| **Supports** | None | None |
+| **Brim** | 8 Layers (0.5mm) | 8 Layers (0.7mm) |
+| **Infill Density** | 20% | 15% |
 
 ---
 
