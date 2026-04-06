@@ -1,3 +1,17 @@
+---
+title: "DIY uFluidic Device"
+excerpt: "DIY Microfluidic Device for separating small particles"
+header:
+  image: assets/img/Real_Life_Full.png
+  teaser: assets/img/Real_Life_Full.png
+gallery:
+  - image_path: assets/img/3d_Full.png
+  - image_path: assets/img/Circuit.png
+  - image_path: assets/img/Real_Life_Remote.png
+   
+---
+
+
 ## Introduction
 
 A significant application of high-resolution resin printing is the manufacturing of molds for microfluidic devices. Microfluidic devices are systems that manipulate extremely small amounts of fluid utilizing varying channels to separate particles of varying size. A typical design approach to microfluidic devices is Pinched Flow Fractionation. In this approach particles in a liquid are introduced to a pinched segment of a microchannel where they are aligned to one sidewall of the segment by another liquid without particles being injected into the same pinched segment. 
