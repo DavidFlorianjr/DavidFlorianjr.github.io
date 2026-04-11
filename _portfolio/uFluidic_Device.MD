@@ -82,31 +82,23 @@ To properly capture these particles, both exit holes were centered at their resp
 
 The results of testing highlighted a fundamental flaw in the design of the device. The channel width corresponding to the smallest particles was too large to provide adequate and balanced fluid flow. By making that channel twice as big as it mathematically needed to be (1.296mm), its fluidic resistance was reduced affecting Y<sub>0</sub> sorting. This manifested in testing as a considerable amount of particles both large and small drifting upwards above the target Y<sub>0</sub> value. Additionally in practice, the separation between particles was not as drastic as desired and the ratio w<sub>b</sub> could have been increased. 
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 15px; margin: 20px 0;">
-
-  <figure style="display: flex; flex-direction: column; text-align: center; width: 32%; margin: 0;">
-    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
-    <figcaption style="margin-top: 10px; font-size: 0.9em; line-height: 1.2;">
-      Figure 6: Fluid Pumps for Buffer and Particles.
-    </figcaption>
-  </figure>
-
-  <figure style="display: flex; flex-direction: column; text-align: center; width: 32%; margin: 0;">
-    <img src="/assets/img/setup_2.jpeg" alt="Experimental Setup" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
-    <figcaption style="margin-top: 10px; font-size: 0.9em; line-height: 1.2;">
-      Figure 9: Device.
-    </figcaption>
-  </figure>
-
-  <figure style="display: flex; flex-direction: column; text-align: center; width: 32%; margin: 0;">
-    <img src="/assets/img/setup_3.jpeg" alt="Experimental Setup" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
-    <figcaption style="margin-top: 10px; font-size: 0.9em; line-height: 1.2;">
-      Figure 8: Suction Pumps to balance flow rates.
-    </figcaption>
-  </figure>
-
+<div style="display: flex; justify-content: space-between; gap: 15px; margin-bottom: 5px;">
+  <div style="width: 32%;"><img src="/assets/img/setup_1.jpeg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px; display: block;"></div>
+  <div style="width: 32%;"><img src="/assets/img/setup_2.jpeg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px; display: block;"></div>
+  <div style="width: 32%;"><img src="/assets/img/setup_3.jpeg" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px; display: block;"></div>
 </div>
 
+<div style="display: flex; justify-content: space-between; gap: 15px; align-items: flex-start;">
+  <p style="width: 32%; text-align: center; font-size: 0.85em; color: #444; margin-top: 5px; line-height: 1.3;">
+    <strong>Figure 6:</strong> Fluid Pumps for Buffer and Particles.
+  </p>
+  <p style="width: 32%; text-align: center; font-size: 0.85em; color: #444; margin-top: 5px; line-height: 1.3;">
+    <strong>Figure 9:</strong> Device under testing.
+  </p>
+  <p style="width: 32%; text-align: center; font-size: 0.85em; color: #444; margin-top: 5px; line-height: 1.3;">
+    <strong>Figure 8:</strong> Suction Pumps to balance flow rates.
+  </p>
+</div>
 If this design were to be scaled up or modified to handle a wider range of particle sizes, multiple sorting stages could be cascaded together, or the expansion ratio could be further increased to spread out the streamlines even more. However, there are factors that set a lower limit on the particle size that can be separated with pinched flow fractionation. Specifically, Brownian motion (diffusion) causes extremely small particles to drift off their calculated streamlines, and there are physical resolution limits to how small the 3D printer can manufacture the initial pinch width.
 
 # Interactive Fusion Model
