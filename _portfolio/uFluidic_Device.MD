@@ -2,13 +2,8 @@
 title: "DIY uFluidic Device"
 excerpt: "DIY Microfluidic Device for separating small particles"
 header:
-  image: assets/img/Real_Life_Full.png
-  teaser: assets/img/Real_Life_Full.png
-gallery:
-  - image_path: assets/img/3d_Full.png
-  - image_path: assets/img/Circuit.png
-  - image_path: assets/img/Real_Life_Remote.png
-   
+  image: assets/img/device_mold.jpg
+  teaser: assets/img/device_mold.jpg
 ---
 
 
@@ -40,6 +35,7 @@ The manufacturing process for the microfluidic device created in this project in
 * **Resin Printing and Post-Processing:** The mold is then resin-printed. Post-processing of this design was also critical, involving a thorough IPA wash and brief UV cure to prevent warping. 
 * **Parylene Coating:** Before casting the PDMS the resin-printed mold is coated with parylene to address the chemical incompatibility between the resin and PDMS. Unreacted monomers and photo initiators in the resin can cause cure inhibition in the PDMS resulting in a failure of the PDMS to mold to fine features. 
 * **PDMS Casting:** The PDMS is then cast to the mold and allowed to fully cure. 
+
 
 ## Design Geometry
 
