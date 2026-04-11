@@ -16,7 +16,7 @@ The particles are separated perpendicularly to the flow of direction according t
 <figure style="text-align: center;">
   <img src="/assets/img/PFF_DEMO.png" 
        alt="Pinched Flow Fractionation principle" 
-       style="display: block; margin: 0 auto; width: 70%;">
+       style="display: block; margin: 0 auto; width: 50%;">
   <figcaption>Figure 1: Pinched Flow Fractionation principle.</figcaption>
 </figure>
 
@@ -36,6 +36,20 @@ The manufacturing process for the microfluidic device created in this project in
 * **Parylene Coating:** Before casting the PDMS the resin-printed mold is coated with parylene to address the chemical incompatibility between the resin and PDMS. Unreacted monomers and photo initiators in the resin can cause cure inhibition in the PDMS resulting in a failure of the PDMS to mold to fine features. 
 * **PDMS Casting:** The PDMS is then cast to the mold and allowed to fully cure. 
 
+<figure style="text-align: center;">
+  <img src="/assets/img/Plasma-Treating-Image.jpg" 
+       alt="PDMS Treating" 
+       style="display: block; margin: 0 auto; width: 50%;">
+  <figcaption>Figure 2: Plasma-Treating PDMS Molding.</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/device_mold.jpeg" 
+       alt="Device" 
+       style="display: block; margin: 0 auto; width: 50%;">
+  <figcaption>Figure 3: Device and Mold.</figcaption>
+</figure>
+
 
 ## Design Geometry
 
@@ -45,11 +59,42 @@ This drastic expansion is intentional as it allows for the use of a streamline m
 
 To properly capture these particles, both exit holes were centered at their respective heights, and the channels were made 2.64mm wide to account for at least 1.5x the radius of the largest possible to prevent clogging. This also was implemented to try and achieve equal flow rate between the two channels. Both outlets were fed by trapezoid shaped openings to account for collisions and small error. To prevent clogging and balance flow rate a bottom buffer outlet of similar width to the first two trapezoid outlets combined was incorporated. 
 
-## Discussion and Results
+<figure style="text-align: center;">
+  <img src="/assets/img/uFluid_Sketch_1.png" 
+       alt="Design Sketch" 
+       style="display: block; margin: 0 auto; width: 50%;">
+  <figcaption>Figure 4: Design Sketch.</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/uFluid_Sketch_2.png" 
+       alt="Design Sketch" 
+       style="display: block; margin: 0 auto; width: 50%;">
+  <figcaption>Figure 5: Design Sketch.</figcaption>
+</figure>
+
+## Testing and Results
 
 The results of testing highlighted a fundamental flaw in the design of the device. The channel width corresponding to the smallest particles was too large to provide adequate and balanced fluid flow. By making that channel twice as big as it mathematically needed to be (1.296mm), its fluidic resistance was reduced affecting Y<sub>0</sub> sorting. This manifested in testing as a considerable amount of particles both large and small drifting upwards above the target Y<sub>0</sub> value. Additionally in practice, the separation between particles was not as drastic as desired and the ratio w<sub>b</sub> could have been increased. 
 
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 10px;">
 
+  <figure style="text-align: center; width: 32%;">
+    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%;">
+    <figcaption>Figure 6: Fluid Pumps for Buffer and Particles.</figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 32%;">
+    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%;">
+    <figcaption>Figure 9: Device.</figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 32%;">
+    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%;">
+    <figcaption>Figure 8: Suction Pumps to balance flow rates.</figcaption>
+  </figure>
+
+</div>
 
 If this design were to be scaled up or modified to handle a wider range of particle sizes, multiple sorting stages could be cascaded together, or the expansion ratio could be further increased to spread out the streamlines even more. However, there are factors that set a lower limit on the particle size that can be separated with pinched flow fractionation. Specifically, Brownian motion (diffusion) causes extremely small particles to drift off their calculated streamlines, and there are physical resolution limits to how small the 3D printer can manufacture the initial pinch width.
 
