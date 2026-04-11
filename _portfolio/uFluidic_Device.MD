@@ -19,8 +19,10 @@ A significant application of high-resolution resin printing is the manufacturing
 The particles are separated perpendicularly to the flow of direction according to their size by the spreading flow profile inside the microchannel. Exit channels are then used to extract the separate particles [(Yamada et al., 2004)](https://pubs.acs.org/doi/10.1021/ac049863r). Pinched flow fractionation has advantages over traditional filtration methods like filters due to low risk of clogging, continuous processing instead of batches, and low shear stress being inflicted on the particles being tested. 
 
 <figure style="text-align: center;">
-  <img src="/assets/img/PFF_DEMO.png" alt="Pinched Flow Fractionation principle" style="display: block; margin: 0 auto;">
-  <figcaption>Figure 1: Pinched Flow Fractionation (PFF) principle showing particle separation.</figcaption>
+  <img src="/assets/img/PFF_DEMO.png" 
+       alt="Pinched Flow Fractionation principle" 
+       style="display: block; margin: 0 auto; width: 70%;">
+  <figcaption>Figure 1: Pinched Flow Fractionation principle.</figcaption>
 </figure>
 
 
