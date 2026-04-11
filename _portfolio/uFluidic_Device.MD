@@ -82,21 +82,27 @@ To properly capture these particles, both exit holes were centered at their resp
 
 The results of testing highlighted a fundamental flaw in the design of the device. The channel width corresponding to the smallest particles was too large to provide adequate and balanced fluid flow. By making that channel twice as big as it mathematically needed to be (1.296mm), its fluidic resistance was reduced affecting Y<sub>0</sub> sorting. This manifested in testing as a considerable amount of particles both large and small drifting upwards above the target Y<sub>0</sub> value. Additionally in practice, the separation between particles was not as drastic as desired and the ratio w<sub>b</sub> could have been increased. 
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: stretch; gap: 15px; margin: 20px 0;">
 
-  <figure style="text-align: center; width: 32%;">
-    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%;">
-    <figcaption>Figure 6: Fluid Pumps for Buffer and Particles.</figcaption>
+  <figure style="display: flex; flex-direction: column; text-align: center; width: 32%; margin: 0;">
+    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
+    <figcaption style="margin-top: 10px; font-size: 0.9em; line-height: 1.2;">
+      Figure 6: Fluid Pumps for Buffer and Particles.
+    </figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 32%;">
-    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%;">
-    <figcaption>Figure 9: Device.</figcaption>
+  <figure style="display: flex; flex-direction: column; text-align: center; width: 32%; margin: 0;">
+    <img src="/assets/img/setup_2.jpeg" alt="Experimental Setup" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
+    <figcaption style="margin-top: 10px; font-size: 0.9em; line-height: 1.2;">
+      Figure 9: Device.
+    </figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 32%;">
-    <img src="/assets/img/setup_1.jpeg" alt="Experimental Setup" style="width: 100%;">
-    <figcaption>Figure 8: Suction Pumps to balance flow rates.</figcaption>
+  <figure style="display: flex; flex-direction: column; text-align: center; width: 32%; margin: 0;">
+    <img src="/assets/img/setup_3.jpeg" alt="Experimental Setup" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 4px;">
+    <figcaption style="margin-top: 10px; font-size: 0.9em; line-height: 1.2;">
+      Figure 8: Suction Pumps to balance flow rates.
+    </figcaption>
   </figure>
 
 </div>
