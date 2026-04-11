@@ -104,4 +104,13 @@ If this design were to be scaled up or modified to handle a wider range of parti
 # Interactive Fusion Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811e6db0d77605da5fa?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# GIF of Working model in action ~ Made by Classmate
+<figure style="display: block; margin: 30px auto; width: 80%; text-align: center;">
+  <img src="/assets/img/fluid-ezgif.com-optimize (1).gif" 
+       alt="Microfluidic model in action" 
+       style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
+    Figure 10: Video of the microfluidic model in action.
+  </figcaption>
+</figure>
 
