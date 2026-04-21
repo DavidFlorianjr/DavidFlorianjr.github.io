@@ -54,6 +54,10 @@ Moving to the back of the support platform are the two most important mechanisms
   </figcaption>
 </figure>
 
+## Manufacturing & Rapid Prototyping
+
+My design was filament printed using PLA plastic. This aspect of the design approach was due to the necessities needed for rapid prototyping and multiple iterations. As a result, a lot of the holes for heat-set inserts and screws had to be expanded to account for swelling during the printing process. 
+
 # Interactive Fusion Model
 <iframe src="[INSERT_YOUR_AUTODESK_SHARE_LINK_HERE]" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
