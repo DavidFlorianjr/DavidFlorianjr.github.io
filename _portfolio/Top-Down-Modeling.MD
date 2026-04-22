@@ -102,7 +102,7 @@ Moving to the back of the support platform are the two most important mechanisms
 My design was filament printed using PLA plastic. This aspect of the design approach was due to the necessities needed for rapid prototyping and multiple iterations. As a result, a lot of the holes for heat-set inserts and screws had to be expanded to account for swelling during the printing process. Pictures of the mount can be seen in action below:
 
 <figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/detent_clamping.png" 
+  <img src="/assets/img/Phone_Holder_In_Action.jpeg" 
        alt="Detent and Clamping Mechanisms" 
        style="width: 100%; height: auto; border: 1px solid #eee;">
   <figcaption style="margin-top: 10px; font-weight: bold;">
@@ -111,7 +111,7 @@ My design was filament printed using PLA plastic. This aspect of the design appr
 </figure>
 
 <figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/detent_clamping.png" 
+  <img src="/assets/img/Horizontal_Profile.jpeg" 
        alt="Detent and Clamping Mechanisms" 
        style="width: 100%; height: auto; border: 1px solid #eee;">
   <figcaption style="margin-top: 10px; font-weight: bold;">
