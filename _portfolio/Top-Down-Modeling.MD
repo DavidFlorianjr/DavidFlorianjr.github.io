@@ -170,7 +170,7 @@ My design was filament printed using PLA plastic. This aspect of the design appr
 </figure>
 
 # Interactive Fusion Model
-<iframe src="[INSERT_YOUR_AUTODESK_SHARE_LINK_HERE]" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b7dab559fbd10b2e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # GIF of Working Model in Action
 <figure style="display: block; margin: 30px auto; width: 80%; text-align: center;">
