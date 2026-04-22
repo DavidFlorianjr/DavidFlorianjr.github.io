@@ -2,8 +2,8 @@
 title: "Top-Down Designed Bike Phone Mount"
 excerpt: "A robust, 360-degree rotating bike-mounted phone holder designed using top-down modeling."
 header:
-  image: assets/img/phone_mount_main.jpeg
-  teaser: assets/img/phone_mount_main.jpeg
+  image: assets/img/Phone_Holder_In_Action.jpeg
+  teaser: assets/img/Phone_Holder_In_Action.jpeg
 ---
 
 ## Introduction to Top-Down Modeling
@@ -64,32 +64,37 @@ Moving to the back of the support platform are the two most important mechanisms
 * **Phone-Clamping Mechanism:** This is spring-actuated, using a set of screws to clamp a spring to each inner edge to provide the clamping force to hold the phone in place. Additionally, this mechanism features a horizontal bar to act as a rail to keep the mechanism stable. At the end of this horizontal bar is a screw and a nut to provide a horizontal limit. The entire phone-clamping mechanism is designed to fit the base and Pro models of the iPhone 13 lineup and newer. It is also designed with bulky cases in mind. 
 * **Detent Mechanism:** This exists to allow the phone to rotate 360 degrees in the horizontal direction. This is convenient for users who may want to utilize their device in landscape mode for consuming content. The detent mechanism features a 7mm ball bearing and a corresponding spring that fits into a pocket where the base attaches to the support platform. This mechanism clicks into place at predetermined slots, creating a smooth but sturdy user experience that is resistant to vibrations.
 
-<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/detent_clamping.png" 
-       alt="Detent and Clamping Mechanisms" 
-       style="width: 100%; height: auto; border: 1px solid #eee;">
-  <figcaption style="margin-top: 10px; font-weight: bold;">
-    Figure 3: Detent Case.
+<figure style="margin: 30px auto; text-align: center; width: 95%;">
+  <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
+    
+    <div style="width: 32%;">
+      <img src="/assets/img/YOUR_IMAGE_1.jpg" 
+           alt="Description of image 1" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+    <div style="width: 32%;">
+      <img src="/assets/img/YOUR_IMAGE_2.jpg" 
+           alt="Description of image 2" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+    <div style="width: 32%;">
+      <img src="/assets/img/YOUR_IMAGE_3.jpg" 
+           alt="Description of image 3" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+  </div>
+
+  <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
+    Figure X: Detent Mechanism Components.
   </figcaption>
 </figure>
+
+
 <figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/detent_clamping.png" 
-       alt="Detent and Clamping Mechanisms" 
-       style="width: 100%; height: auto; border: 1px solid #eee;">
-  <figcaption style="margin-top: 10px; font-weight: bold;">
-    Figure 3: Detent Gear.
-  </figcaption>
-</figure>
-<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/detent_clamping.png" 
-       alt="Detent and Clamping Mechanisms" 
-       style="width: 100%; height: auto; border: 1px solid #eee;">
-  <figcaption style="margin-top: 10px; font-weight: bold;">
-    Figure 3: Detent Backing.
-  </figcaption>
-</figure>
-<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/detent_clamping.png" 
+  <img src="/assets/img/Section Analysis.png" 
        alt="Detent and Clamping Mechanisms" 
        style="width: 100%; height: auto; border: 1px solid #eee;">
   <figcaption style="margin-top: 10px; font-weight: bold;">
@@ -101,6 +106,14 @@ Moving to the back of the support platform are the two most important mechanisms
 
 My design was filament printed using PLA plastic. This aspect of the design approach was due to the necessities needed for rapid prototyping and multiple iterations. As a result, a lot of the holes for heat-set inserts and screws had to be expanded to account for swelling during the printing process. Pictures of the mount can be seen in action below:
 
+<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
+  <img src="/assets/img/Bike_Mount_Render.png" 
+       alt="Detent and Clamping Mechanisms" 
+       style="width: 100%; height: auto; border: 1px solid #eee;">
+  <figcaption style="margin-top: 10px; font-weight: bold;">
+    Figure 4: Final Render of device in use.
+  </figcaption>
+</figure>
 <figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
   <img src="/assets/img/Phone_Holder_In_Action.jpeg" 
        alt="Detent and Clamping Mechanisms" 
