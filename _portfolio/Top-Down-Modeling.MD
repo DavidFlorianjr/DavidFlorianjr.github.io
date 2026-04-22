@@ -27,12 +27,31 @@ My design can be mounted to a handlebar of 23-25mm using a screw-based clamping 
 
 Moving upwards from the clamping mechanism, my design features a rotating pivot that allows the user to manipulate the vertical angle of the phone. The ability to adjust the vertical angle of the phone is convenient as it allows the user to adjust for glare, height, and more. This mechanism is mainly secured using the friction between a screw, supporting components, and a nut. This friction allows for firm control of the angle but also prevents the component holding the phone from falling during rougher rides.
 
-<figure style="display: block; margin: 20px auto; width: 60%; text-align: center;">
-  <img src="/assets/img/base_clamp_mechanism.jpg" 
-       alt="Base Clamp and Pivot Mechanism" 
-       style="width: 100%; height: auto; border-radius: 4px;">
-  <figcaption style="margin-top: 8px; font-style: italic; color: #555;">
-    Figure 2: Screw-based clamping and vertical rotating pivot mechanism.
+<figure style="margin: 30px auto; text-align: center; width: 95%;">
+  <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
+    
+    <div style="width: 32%;">
+      <img src="/assets/img/YOUR_IMAGE_1.jpg" 
+           alt="Description of image 1" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+    <div style="width: 32%;">
+      <img src="/assets/img/YOUR_IMAGE_2.jpg" 
+           alt="Description of image 2" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+    <div style="width: 32%;">
+      <img src="/assets/img/YOUR_IMAGE_3.jpg" 
+           alt="Description of image 3" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+  </div>
+
+  <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
+    Figure X: Detent Mechanism Components.
   </figcaption>
 </figure>
 
@@ -50,13 +69,55 @@ Moving to the back of the support platform are the two most important mechanisms
        alt="Detent and Clamping Mechanisms" 
        style="width: 100%; height: auto; border: 1px solid #eee;">
   <figcaption style="margin-top: 10px; font-weight: bold;">
-    Figure 3: Detent and spring-actuated clamping mechanism details.
+    Figure 3: Detent Case.
+  </figcaption>
+</figure>
+<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
+  <img src="/assets/img/detent_clamping.png" 
+       alt="Detent and Clamping Mechanisms" 
+       style="width: 100%; height: auto; border: 1px solid #eee;">
+  <figcaption style="margin-top: 10px; font-weight: bold;">
+    Figure 3: Detent Gear.
+  </figcaption>
+</figure>
+<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
+  <img src="/assets/img/detent_clamping.png" 
+       alt="Detent and Clamping Mechanisms" 
+       style="width: 100%; height: auto; border: 1px solid #eee;">
+  <figcaption style="margin-top: 10px; font-weight: bold;">
+    Figure 3: Detent Backing.
+  </figcaption>
+</figure>
+<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
+  <img src="/assets/img/detent_clamping.png" 
+       alt="Detent and Clamping Mechanisms" 
+       style="width: 100%; height: auto; border: 1px solid #eee;">
+  <figcaption style="margin-top: 10px; font-weight: bold;">
+    Figure 3: Cross Section of the Detent.
   </figcaption>
 </figure>
 
 ## Manufacturing & Rapid Prototyping
 
-My design was filament printed using PLA plastic. This aspect of the design approach was due to the necessities needed for rapid prototyping and multiple iterations. As a result, a lot of the holes for heat-set inserts and screws had to be expanded to account for swelling during the printing process. 
+My design was filament printed using PLA plastic. This aspect of the design approach was due to the necessities needed for rapid prototyping and multiple iterations. As a result, a lot of the holes for heat-set inserts and screws had to be expanded to account for swelling during the printing process. Pictures of the mount can be seen in action below:
+
+<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
+  <img src="/assets/img/detent_clamping.png" 
+       alt="Detent and Clamping Mechanisms" 
+       style="width: 100%; height: auto; border: 1px solid #eee;">
+  <figcaption style="margin-top: 10px; font-weight: bold;">
+    Figure 4: Device in use.
+  </figcaption>
+</figure>
+
+<figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
+  <img src="/assets/img/detent_clamping.png" 
+       alt="Detent and Clamping Mechanisms" 
+       style="width: 100%; height: auto; border: 1px solid #eee;">
+  <figcaption style="margin-top: 10px; font-weight: bold;">
+    Figure 4: Horizontal profile of device in use.
+  </figcaption>
+</figure>
 
 # Interactive Fusion Model
 <iframe src="[INSERT_YOUR_AUTODESK_SHARE_LINK_HERE]" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
