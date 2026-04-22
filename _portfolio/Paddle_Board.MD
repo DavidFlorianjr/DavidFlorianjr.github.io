@@ -22,7 +22,7 @@ The handle bar portion of the paddle board is 50mm by 35mm by 120mm. Even with t
   <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
     
     <div style="flex: 1;">
-      <img src="/assets/img/Paddle_Base_1.png" 
+      <img src="/assets/img/Paddle.png" 
            alt="Paddle.png" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
