@@ -168,7 +168,8 @@ My design was filament printed using PLA plastic. This aspect of the design appr
     Figure 4: Horizontal profile of device in use.
   </figcaption>
 </figure>
-
+# Instructions For Use
+To use this device it must first be secured to a bike-mount using a 2.5 size Allen Key and 16mm M3 screws and nuts. Screw in the M3s diagonally until the the phone holder is securely mounted onto the bike. Next insert phone into the phone clamp by pulling clamp horizontally. Ensure the clamp is applying pressure to the phone before riding bike. Rotate phone to desired orientation. Enjoy!
 # Interactive Fusion Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811b7dab559fbd10b2e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
