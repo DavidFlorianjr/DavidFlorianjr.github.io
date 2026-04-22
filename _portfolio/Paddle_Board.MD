@@ -2,8 +2,8 @@
 title: "Modular Pickleball Paddle Design"
 excerpt: "A 2026 USA Pickleball rules-compliant paddle featuring an interchangeable TPU grip and edge guard for optimized performance."
 header:
-  image: assets/img/Pickleball_Paddle_Main.jpeg
-  teaser: assets/img/Pickleball_Paddle_Main.jpeg
+  image: assets/img/Complete_Paddle.png
+  teaser: assets/img/Complete_Paddle.png
 ---
 
 ## Introduction to the Project
@@ -23,12 +23,12 @@ The handle bar portion of the paddle board is 50mm by 35mm by 120mm. Even with t
     
     <div style="flex: 1;">
       <img src="/assets/img/Paddle_Base_1.png" 
-           alt="Paddle Base Front View" 
+           alt="Paddle.png" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
 
     <div style="flex: 1;">
-      <img src="/assets/img/Paddle_Base_2.png" 
+      <img src="/assets/img/Handle.png" 
            alt="Paddle Handle Assembly" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
@@ -70,7 +70,7 @@ It can be secured to the handle using a single M5 screw that inserts into the ma
 Another feature of this paddle board is an interchangeable TPU guard for the main paddle. The guard is designed to wrap around the exterior of the paddle board and it is supposed to be mounted via the same screws that run from the handle into the base of the board. TPU was chosen as a material to absorb the majority of the force experienced by this guard as it hit the ground. Additionally it is meant to be easy to swap out and change just like the TPU hand grip. The guard is approximately 7mm thick. This was determined as a good starting point for finding a balance between shock absorption, and the weight of the tpu guard affecting the inertia and swing of the paddle and its feel.
 
 <figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/Paddle_Render_Final.png" 
+  <img src="/assets/img/Complete_Paddle.png" 
        alt="Final Paddle Render" 
        style="width: 100%; height: auto; border: 1px solid #eee;">
   <figcaption style="margin-top: 10px; font-weight: bold;">
