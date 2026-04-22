@@ -103,36 +103,35 @@ Moving to the back of the support platform are the two most important mechanisms
 * **Detent Mechanism:** This exists to allow the phone to rotate 360 degrees in the horizontal direction. This is convenient for users who may want to utilize their device in landscape mode for consuming content. The detent mechanism features a 7mm ball bearing and a corresponding spring that fits into a pocket where the base attaches to the support platform. This mechanism clicks into place at predetermined slots, creating a smooth but sturdy user experience that is resistant to vibrations.
 
 <figure style="margin: 30px auto; text-align: center; width: 95%;">
-  <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
-    
-    <div style="width: 32%;">
-      <img src="/assets/img/Detent_Case.jpg" 
-           alt="Description of image 1" 
-           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
-    </div>
+<div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
 
-    <div style="width: 32%;">
-      <img src="/assets/img/Detent_Gear.jpg" 
-           alt="Description of image 2" 
-           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
-    </div>
+<div style="width: 32%;">
+  <img src="/assets/img/Detent_Case.png" 
+       alt="Description of image 1" 
+       style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+</div>
 
-    <div style="width: 32%;">
-      <img src="/assets/img/Detent_Backing.jpg" 
-           alt="Description of image 3" 
-           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
-    </div>
+<div style="width: 32%;">
+  <img src="/assets/img/Detent_Gear.png" 
+       alt="Description of image 2" 
+       style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+</div>
 
-  </div>
+<div style="width: 32%;">
+  <img src="/assets/img/Detent_Backing.png" 
+       alt="Description of image 3" 
+       style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+</div>
+</div>
 
-  <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
-    Figure X: Detent Mechanism Components.
-  </figcaption>
+<figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
+Figure X: Detent Mechanism Components.
+</figcaption>
 </figure>
 
 
 <figure style="display: block; margin: 30px auto; width: 70%; text-align: center;">
-  <img src="/assets/img/Section Analysis.png" 
+  <img src="/assets/img/Section_Analysis.png" 
        alt="Detent and Clamping Mechanisms" 
        style="width: 100%; height: auto; border: 1px solid #eee;">
   <figcaption style="margin-top: 10px; font-weight: bold;">
