@@ -10,13 +10,6 @@ header:
 
 Top-down modeling is a design methodology where the assembly is defined first and then the individual components within the assembly are worked down to. Top-down modeling is a powerful design approach because it allows the designer to create a framework that dictates the shape, size, and position of every part within the context of the whole instead of building parts in isolation and struggling to ensure proper fitting and compatibility.
 
-<figure style="text-align: center;">
-  <img src="/assets/img/top_down_assembly.png" 
-       alt="Top-Down Assembly Framework" 
-       style="display: block; margin: 0 auto; width: 50%;">
-  <figcaption>Figure 1: Top-Down Assembly framework dictating component fit.</figcaption>
-</figure>
-
 ## Project Overview
 
 The design goal of this project was to design a phone holder that can be mounted to a bike handlebar. In this design project, top-down modeling was utilized and critical as my design had many components and moving parts that would have been difficult to properly fit and size if designed independently.
@@ -25,33 +18,47 @@ The design goal of this project was to design a phone holder that can be mounted
 
 My design can be mounted to a handlebar of 23-25mm using a screw-based clamping mechanism. I decided to utilize a screw-based clamping mechanism because it ensures that the user can apply adequate friction between the handlebar and clamp to properly secure the phone holder. 
 
+<figure style="margin: 30px auto; text-align: center; width: 95%;">
+  <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
+    
+    <div style="width: 32%;">
+      <img src="/assets/img/Bike_Mount_1.png" 
+           alt="Bike Mount" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+    <div style="width: 32%;">
+      <img src="/assets/img/Bike_Mount_2.png" 
+           alt="Bike Mount" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+</div>
+  <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
+    Figure 1:Bike Mount Mechanism Components.
+  </figcaption>
+</figure>
+
 Moving upwards from the clamping mechanism, my design features a rotating pivot that allows the user to manipulate the vertical angle of the phone. The ability to adjust the vertical angle of the phone is convenient as it allows the user to adjust for glare, height, and more. This mechanism is mainly secured using the friction between a screw, supporting components, and a nut. This friction allows for firm control of the angle but also prevents the component holding the phone from falling during rougher rides.
 
 <figure style="margin: 30px auto; text-align: center; width: 95%;">
   <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
     
     <div style="width: 32%;">
-      <img src="/assets/img/YOUR_IMAGE_1.jpg" 
+      <img src="/assets/img/Swivel_1.png" 
            alt="Description of image 1" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
 
     <div style="width: 32%;">
-      <img src="/assets/img/YOUR_IMAGE_2.jpg" 
+      <img src="/assets/img/Swivel_2.png" 
            alt="Description of image 2" 
-           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
-    </div>
-
-    <div style="width: 32%;">
-      <img src="/assets/img/YOUR_IMAGE_3.jpg" 
-           alt="Description of image 3" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
 
   </div>
 
   <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
-    Figure X: Detent Mechanism Components.
+    Figure 2: Swivel Mechanism Components.
   </figcaption>
 </figure>
 
@@ -59,28 +66,59 @@ Moving upwards from the clamping mechanism, my design features a rotating pivot 
 
 Moving upward from the base of the phone holder into the main section, the supporting platform for the phone features a lip on the bottom for added support to reduce the load of the horizontal clamps. This platform is designed so that the horizontal clamps do not overlap with the volume buttons, as this can cause issues with accidentally adjusting volume, power, or the ringer button. 
 
+
+
 Moving to the back of the support platform are the two most important mechanisms in the design: the detent mechanism and the clamping mechanism. 
 
 * **Phone-Clamping Mechanism:** This is spring-actuated, using a set of screws to clamp a spring to each inner edge to provide the clamping force to hold the phone in place. Additionally, this mechanism features a horizontal bar to act as a rail to keep the mechanism stable. At the end of this horizontal bar is a screw and a nut to provide a horizontal limit. The entire phone-clamping mechanism is designed to fit the base and Pro models of the iPhone 13 lineup and newer. It is also designed with bulky cases in mind. 
+
+<figure style="margin: 30px auto; text-align: center; width: 95%;">
+  <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
+    
+    <div style="width: 32%;">
+      <img src="/assets/img/Phone_Clamp_Bar.png" 
+           alt="Phone Clamp" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+    <div style="width: 32%;">
+      <img src="/assets/img/Phone_Clamp_P2.png" 
+           alt="Phone Clamp" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+<div style="width: 32%;">
+      <img src="/assets/img/Phone_Backing.png" 
+           alt="Phone Clamp" 
+           style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
+    </div>
+
+  </div>
+
+  <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
+    Figure 3: Phone Clamping Mechanism.
+  </figcaption>
+</figure>
+
 * **Detent Mechanism:** This exists to allow the phone to rotate 360 degrees in the horizontal direction. This is convenient for users who may want to utilize their device in landscape mode for consuming content. The detent mechanism features a 7mm ball bearing and a corresponding spring that fits into a pocket where the base attaches to the support platform. This mechanism clicks into place at predetermined slots, creating a smooth but sturdy user experience that is resistant to vibrations.
 
 <figure style="margin: 30px auto; text-align: center; width: 95%;">
   <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
     
     <div style="width: 32%;">
-      <img src="/assets/img/YOUR_IMAGE_1.jpg" 
+      <img src="/assets/img/Detent_Case.jpg" 
            alt="Description of image 1" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
 
     <div style="width: 32%;">
-      <img src="/assets/img/YOUR_IMAGE_2.jpg" 
+      <img src="/assets/img/Detent_Gear.jpg" 
            alt="Description of image 2" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
 
     <div style="width: 32%;">
-      <img src="/assets/img/YOUR_IMAGE_3.jpg" 
+      <img src="/assets/img/Detent_Backing.jpg" 
            alt="Description of image 3" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
