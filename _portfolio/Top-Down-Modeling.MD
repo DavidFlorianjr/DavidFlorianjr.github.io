@@ -19,22 +19,23 @@ The design goal of this project was to design a phone holder that can be mounted
 My design can be mounted to a handlebar of 23-25mm using a screw-based clamping mechanism. I decided to utilize a screw-based clamping mechanism because it ensures that the user can apply adequate friction between the handlebar and clamp to properly secure the phone holder. 
 
 <figure style="margin: 30px auto; text-align: center; width: 95%;">
-  <div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
     
-    <div style="width: 32%;">
+    <div style="flex: 1;">
       <img src="/assets/img/Bike_Mount_1.png" 
-           alt="Bike Mount" 
+           alt="Bike Mount Front View" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
 
-    <div style="width: 32%;">
+    <div style="flex: 1;">
       <img src="/assets/img/Bike_Mount_2.png" 
-           alt="Bike Mount" 
+           alt="Bike Mount Side View" 
            style="width: 100%; height: auto; border-radius: 4px; border: 1px solid #eee;">
     </div>
-</div>
+
+  </div>
   <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
-    Figure 1:Bike Mount Mechanism Components.
+    Figure 1: Bike Mount Mechanism Components.
   </figcaption>
 </figure>
 
