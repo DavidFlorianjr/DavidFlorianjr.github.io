@@ -124,7 +124,7 @@ My design was filament printed using PLA plastic. This aspect of the design appr
 
 # GIF of Working Model in Action
 <figure style="display: block; margin: 30px auto; width: 80%; text-align: center;">
-  <img src="/assets/img/phone_mount_demo.gif" 
+  <img src="/assets/img/Phone_Holder_gif.gif" 
        alt="Phone mount model in action" 
        style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <figcaption style="margin-top: 12px; font-weight: bold; color: #333;">
